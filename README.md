@@ -51,10 +51,10 @@ This is a simple desktop application built with Python and Tkinter that allows u
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshot1.png)
+![Main Interface](images/main_interface.png)
 
 ### Watermark Preview
-![Watermark Preview](screenshot2.png)
+![Watermark Preview](images/watermark_preview.png)
 
 ## Future Enhancements
 
