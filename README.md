@@ -66,5 +66,8 @@ This is a simple desktop application built with Python and Tkinter that allows u
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to suggest any changes or enhancements.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
